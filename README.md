@@ -14,8 +14,8 @@ vue init webpack your-projectName
 ```
 # if use sass
 npm install sass --save-dev
-npm install sass-loader --save-dev
 npm install node-sass --save-dev
+npm install sass-loader --save-dev
 
 # if use stylus
 npm install stylus --save-dev
