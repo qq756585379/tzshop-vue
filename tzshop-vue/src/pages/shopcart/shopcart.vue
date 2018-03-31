@@ -9,7 +9,7 @@
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scope>
-  @import "../../common/scss/mixins";
+  @import "../../assets/scss/mixins";
 
   .shopcart {
     position: relative;

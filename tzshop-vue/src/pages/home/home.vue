@@ -25,14 +25,14 @@
     <cell1 :cell1Data="cell1Data" :index="0"></cell1>
 
     <ul>
-      <li v-for="(item,index) in jinxuanList">
+      <li v-for="(item,index) in jinxuanList" :key="item.id">
         <router-link :to="{path: 'showpic',query: {id: item.id}}">
           <cell2 :cell2Data="item" :index="index"></cell2>
         </router-link>
       </li>
     </ul>
 
-    <Loading></Loading>
+    <Loading v-show="false"></Loading>
   </div>
 
 </template>
@@ -42,6 +42,7 @@
   import {swiper, swiperSlide} from 'vue-awesome-swiper';
   import cell1 from '@/components/Cell/cell1';
   import cell2 from '@/components/Cell/cell2';
+
   require('swiper/dist/css/swiper.css');
   export default {
     data() {
@@ -84,6 +85,6 @@
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scope>
-  @import "../../common/scss/mixins";
+  @import "../../assets/scss/mixins";
   @import "./home.scss";
 </style>

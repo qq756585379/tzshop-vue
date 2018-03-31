@@ -25,4 +25,4 @@ new Vue({
   template: '<App/>'
 });
 
-router.push('/home');
+// router.push('/home');

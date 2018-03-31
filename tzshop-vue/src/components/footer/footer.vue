@@ -3,7 +3,7 @@
     <router-link v-for="item in footList" :key="item.id" :to="item.linkTo">
       <div class="tab-item">
         <i :class="item.itemClass" class="common_i">
-          <span class="badge" :class="{ bigNum: allNum>99 }" v-if="allNum!=0&&item.id===3">{{allNum}}</span>
+          <span class="badge" :class="{ bigNum: allNum>99 }" v-if="allNum!==0&&item.id===3">{{allNum}}</span>
         </i>
         <span>{{item.name}}</span>
       </div>

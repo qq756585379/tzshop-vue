@@ -29,12 +29,15 @@
       div:last-of-type {
         position: relative;
         display: inline-block;
+        //border: solid 1px red;
         float: left;
         width: 80%;
         height: 100%;
         font-size: 14px;
+        text-align: left;
         p:first-of-type {
           margin-top: 20px;
+          //border: solid 1px red;
         }
         p:last-of-type {
           margin-top: 10px;
@@ -62,6 +65,7 @@
     background-color: white;
     div:first-of-type {
       margin: 10px 10px;
+      text-align: left;
       span:first-of-type {
         color: #333333;
         font-size: 13px;

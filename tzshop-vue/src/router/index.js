@@ -2,11 +2,12 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import tabvc from '@/pages/tabvc/tabvc';
 import home from '@/pages/home/home';
-import brand from '@/pages/brand/brand';
 import live from '@/pages/live/live';
 import shopcart from '@/pages/shopcart/shopcart';
 import my from '@/pages/my/my';
 import showpic from '@/pages/showpic/showpic';
+// 品牌分类
+import brand from '@/pages/brand/index';
 
 Vue.use(Router);
 

@@ -1,0 +1,449 @@
+{
+  "category": [
+    {
+      "name": "热门分类",
+      "type": 0,
+      "goods": [
+        {
+          "id":0,
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000049.png",
+          "goods_title": "平板电视",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":1,
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/gicon\/cat10000054.png",
+          "goods_title": "冰箱",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":2,
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000062.png",
+          "goods_title": "挂饰空调",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":3,
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000070.png",
+          "goods_title": "手机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":0,
+          "image_url": "http:\/\/img11.gomein.net.cn\/image\/prodimg\/gicon\/cat10000092.png",
+          "goods_title": "笔记本电脑",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":0,
+          "image_url": "http:\/\/img12.gomein.net.cn\/image\/prodimg\/gicon\/cat10000145.png",
+          "goods_title": "单反相机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":0,
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000234.png",
+          "goods_title": "电风扇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":0,
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "id":0,
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "name": "热门分类",
+      "type": 0,
+      "goods": [
+        {
+          "id":0,
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000049.png",
+          "goods_title": "平板电视",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/gicon\/cat10000054.png",
+          "goods_title": "冰箱",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000062.png",
+          "goods_title": "挂饰空调",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000070.png",
+          "goods_title": "手机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img11.gomein.net.cn\/image\/prodimg\/gicon\/cat10000092.png",
+          "goods_title": "笔记本电脑",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img12.gomein.net.cn\/image\/prodimg\/gicon\/cat10000145.png",
+          "goods_title": "单反相机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000234.png",
+          "goods_title": "电风扇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "name": "热门分类",
+      "type": 0,
+      "goods": [
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000049.png",
+          "goods_title": "平板电视",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/gicon\/cat10000054.png",
+          "goods_title": "冰箱",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000062.png",
+          "goods_title": "挂饰空调",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000070.png",
+          "goods_title": "手机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img11.gomein.net.cn\/image\/prodimg\/gicon\/cat10000092.png",
+          "goods_title": "笔记本电脑",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img12.gomein.net.cn\/image\/prodimg\/gicon\/cat10000145.png",
+          "goods_title": "单反相机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000234.png",
+          "goods_title": "电风扇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "name": "热门分类",
+      "type": 0,
+      "goods": [
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000049.png",
+          "goods_title": "平板电视",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/gicon\/cat10000054.png",
+          "goods_title": "冰箱",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000062.png",
+          "goods_title": "挂饰空调",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000070.png",
+          "goods_title": "手机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img11.gomein.net.cn\/image\/prodimg\/gicon\/cat10000092.png",
+          "goods_title": "笔记本电脑",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img12.gomein.net.cn\/image\/prodimg\/gicon\/cat10000145.png",
+          "goods_title": "单反相机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000234.png",
+          "goods_title": "电风扇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        }
+      ]
+    },
+    {
+      "name": "热门分类",
+      "type": 0,
+      "goods": [
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000049.png",
+          "goods_title": "平板电视",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/gicon\/cat10000054.png",
+          "goods_title": "冰箱",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000062.png",
+          "goods_title": "挂饰空调",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img10.gomein.net.cn\/image\/prodimg\/gicon\/cat10000070.png",
+          "goods_title": "手机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img11.gomein.net.cn\/image\/prodimg\/gicon\/cat10000092.png",
+          "goods_title": "笔记本电脑",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img12.gomein.net.cn\/image\/prodimg\/gicon\/cat10000145.png",
+          "goods_title": "单反相机",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img13.gomein.net.cn\/image\/prodimg\/gicon\/cat10000234.png",
+          "goods_title": "电风扇",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        },
+        {
+          "image_url": "http:\/\/img14.gomein.net.cn\/image\/prodimg\/promotion_image\/promoImg\/201504\/20150430\/cat10000230x.png",
+          "goods_title": "空气净化器",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100
+        }
+      ]
+    }
+  ]
+}

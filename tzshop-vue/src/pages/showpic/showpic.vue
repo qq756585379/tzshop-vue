@@ -11,40 +11,40 @@
       return {
         longPicList: [
           {
-            imgSrc: require('../../common/images/01.jpg')
+            imgSrc: require('../../assets/images/01.jpg')
           },
           {
-            imgSrc: require('../../common/images/02.jpg')
+            imgSrc: require('../../assets/images/02.jpg')
           },
           {
-            imgSrc: require('../../common/images/03.jpg')
+            imgSrc: require('../../assets/images/03.jpg')
           },
           {
-            imgSrc: require('../../common/images/01.jpg')
+            imgSrc: require('../../assets/images/01.jpg')
           },
           {
-            imgSrc: require('../../common/images/02.jpg')
+            imgSrc: require('../../assets/images/02.jpg')
           },
           {
-            imgSrc: require('../../common/images/03.jpg')
+            imgSrc: require('../../assets/images/03.jpg')
           },
           {
-            imgSrc: require('../../common/images/01.jpg')
+            imgSrc: require('../../assets/images/01.jpg')
           },
           {
-            imgSrc: require('../../common/images/02.jpg')
+            imgSrc: require('../../assets/images/02.jpg')
           },
           {
-            imgSrc: require('../../common/images/03.jpg')
+            imgSrc: require('../../assets/images/03.jpg')
           },
           {
-            imgSrc: require('../../common/images/01.jpg')
+            imgSrc: require('../../assets/images/01.jpg')
           },
           {
-            imgSrc: require('../../common/images/02.jpg')
+            imgSrc: require('../../assets/images/02.jpg')
           },
           {
-            imgSrc: require('../../common/images/03.jpg')
+            imgSrc: require('../../assets/images/03.jpg')
           }
         ],
         id: 0
@@ -62,7 +62,7 @@
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scope>
-  @import "../../common/scss/mixins";
+  @import "../../assets/scss/mixins";
 
   .showpic {
     position: relative;

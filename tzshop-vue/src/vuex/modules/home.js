@@ -56,110 +56,110 @@ const state = {
     {
       id: 0,
       des: 'ochirly欧时力 纯色羊毛呢大衣长外套',
-      imgSrc: require('../../common/images/348_232_1.png'),
+      imgSrc: require('../../assets/images/348_232_1.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z1.jpg')
+      smalllicon: require('../../assets/images/z1.jpg')
     },
     {
       id: 1,
       des: 'Adidas阿迪达斯羽绒服运动外套 女式 2016冬季新款',
-      imgSrc: require('../../common/images/348_232_2.png'),
+      imgSrc: require('../../assets/images/348_232_2.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z2.jpg')
+      smalllicon: require('../../assets/images/z2.jpg')
     },
     {
       id: 2,
       des: 'Adidas阿迪达斯 2016冬季男子炽风系列运动跑步鞋',
-      imgSrc: require('../../common/images/348_232_3.png'),
+      imgSrc: require('../../assets/images/348_232_3.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z3.jpg')
+      smalllicon: require('../../assets/images/z3.jpg')
     },
     {
       id: 3,
       des: 'Adidas阿迪达斯 男式 简约纯色运动保暖羽绒服',
-      imgSrc: require('../../common/images/348_232_4.png'),
+      imgSrc: require('../../assets/images/348_232_4.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z4.jpg')
+      smalllicon: require('../../assets/images/z4.jpg')
     },
     {
       id: 4,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_5.png'),
+      imgSrc: require('../../assets/images/348_232_5.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z5.jpg')
+      smalllicon: require('../../assets/images/z5.jpg')
     },
     {
       id: 5,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_6.png'),
+      imgSrc: require('../../assets/images/348_232_6.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z6.jpg')
+      smalllicon: require('../../assets/images/z6.jpg')
     },
     {
       id: 6,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_7.png'),
+      imgSrc: require('../../assets/images/348_232_7.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z7.jpg')
+      smalllicon: require('../../assets/images/z7.jpg')
     },
     {
       id: 7,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_8.png'),
+      imgSrc: require('../../assets/images/348_232_8.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z8.jpg')
+      smalllicon: require('../../assets/images/z8.jpg')
     },
     {
       id: 8,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_9.png'),
+      imgSrc: require('../../assets/images/348_232_9.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z9.jpg')
+      smalllicon: require('../../assets/images/z9.jpg')
     },
     {
       id: 9,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_10.png'),
+      imgSrc: require('../../assets/images/348_232_10.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z10.jpg')
+      smalllicon: require('../../assets/images/z10.jpg')
     },
     {
       id: 10,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_11.png'),
+      imgSrc: require('../../assets/images/348_232_11.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z11.jpg')
+      smalllicon: require('../../assets/images/z11.jpg')
     },
     {
       id: 11,
       des: 'Basic house/百家好韩版时尚保暖收腰羽绒服派克大衣外套',
-      imgSrc: require('../../common/images/348_232_12.png'),
+      imgSrc: require('../../assets/images/348_232_12.png'),
       linkTo: '/showpic',
       category: '大衣',
       name: '沙小V',
-      smalllicon: require('../../common/images/z12.jpg')
+      smalllicon: require('../../assets/images/z12.jpg')
     }
   ]
 };

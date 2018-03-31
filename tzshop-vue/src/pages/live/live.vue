@@ -2,7 +2,7 @@
   <div class="live">
     <nav class="nav-head border-1px">直播列表</nav>
     <ul>
-      <li v-for="item in LiveList">
+      <li v-for="item in LiveList" :key="item.id">
         <cell1 :cell1Data="item.cell1Data" :index="1"></cell1>
       </li>
     </ul>
@@ -12,6 +12,7 @@
 <script type="text/ecmascript-6">
   import {mapGetters} from 'vuex';
   import cell1 from '@/components/Cell/cell1';
+
   export default {
     computed: mapGetters(['LiveList']),
     components: {
@@ -21,7 +22,7 @@
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scope>
-  @import "../../common/scss/mixins";
+  @import "../../assets/scss/mixins";
 
   .live {
     position: relative;

@@ -59,14 +59,13 @@
 </template>
 
 <script type="text/ecmascript-6">
-  import cell2 from '@/components/Cell/cell3';
   export default {
     data() {
       return {
         LoginAccount: {
           nicheng: '主播被你玩烂了',
           zhanghao: 'qq756585379',
-          user_icon: require('../../common/images/placeholder@2x.png'),
+          user_icon: require('../../assets/images/placeholder@2x.png'),
           linkTo: '/'
         },
         toolBarList: [
@@ -107,6 +106,6 @@
 </script>
 
 <style rel="stylesheet/scss" lang="scss" scope>
-  @import "../../common/scss/index";
+  @import "../../assets/scss/index";
   @import "./my.scss";
 </style>
