@@ -5,7 +5,7 @@
     <div class="section0">
       <router-link to="/">
         <div>
-          <img :src="LoginAccount.user_icon">
+          <img :src="LoginAccount.user_icon"/>
         </div>
         <div>
           <p>昵称：{{LoginAccount.nicheng}}</p>

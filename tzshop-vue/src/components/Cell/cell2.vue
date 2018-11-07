@@ -74,7 +74,8 @@
         height: 100%;
         p {
           color: #333;
-          margin: 5px 5px 30px 0;
+          text-align: left;
+          margin: 10px 5px 30px 0;
         }
         & > span {
           position: absolute;

@@ -15,13 +15,13 @@
       <ul>
         <li v-for="item in datas" class="section" :key="item.type">
           <h1 class="title">{{ item.name }}</h1>
-          <ul>
-            <li v-for="good in item.goods" :key="good.id">
-              <div>
-                <img :src="">
-              </div>
-            </li>
-          </ul>
+          <!--<ul>-->
+            <!--<li v-for="good in item.goods" :key="good.id">-->
+              <!--<div>-->
+                <!--<img :src="">-->
+              <!--</div>-->
+            <!--</li>-->
+          <!--</ul>-->
         </li>
       </ul>
     </div>
