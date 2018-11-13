@@ -12,9 +12,14 @@ import brand from '@/pages/brand/index';
 Vue.use(Router);
 
 export default new Router({
-  mode: 'history',
-  base: '/',
-  scrollBehavior: () => ({y: 0}),
+  mode: 'history', // 去除地址栏#
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return {x: 0, y: 0};
+    }
+  },
   routes: [
     {
       path: '/',

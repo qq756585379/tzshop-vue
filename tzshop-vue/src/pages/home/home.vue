@@ -34,7 +34,6 @@
 
     <Loading v-show="false"></Loading>
   </div>
-
 </template>
 
 <script type="text/ecmascript-6">
