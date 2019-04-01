@@ -8,6 +8,7 @@ import my from '@/pages/my/my';
 import showpic from '@/pages/showpic/showpic';
 // 品牌分类
 import brand from '@/pages/brand/index';
+import login from '@/pages/login/login';
 
 Vue.use(Router);
 
@@ -59,6 +60,11 @@ export default new Router({
       path: '/showpic',
       name: 'showpic',
       component: showpic
+    },
+    {
+      path: '/login',
+      name: 'login',
+      component: login
     }
   ]
 });

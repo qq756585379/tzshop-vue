@@ -37,7 +37,7 @@
             <span class="tel">13376275127</span>
           </div>
         </li>
-        <li class="border-1px">
+        <li class="border-1px" @click="selectItem(1)">
           <div class="clearfix">
             <span>收货地址</span><i></i>
           </div>
@@ -54,11 +54,12 @@
         </li>
       </ul>
     </div>
-
   </div>
 </template>
 
 <script type="text/ecmascript-6">
+  import {mapGetters} from 'vuex';
+
   export default {
     data() {
       return {
@@ -101,6 +102,22 @@
           }
         ]
       };
+    },
+    computed: mapGetters(['loginInfo']),
+    methods: {
+      selectItem(index) {
+        if (index === 1) {
+          if (this.loginInfo.isLogin) {
+            this.$router.push({
+              path: `/brand`
+            });
+          } else {
+            this.$router.push({
+              path: `/login`
+            });
+          }
+        }
+      }
     }
   };
 </script>
