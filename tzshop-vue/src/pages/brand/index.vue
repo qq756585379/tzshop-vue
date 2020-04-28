@@ -30,7 +30,7 @@
 
 <script type="text/ecmascript-6">
   import BScroll from 'better-scroll';
-  import api from '../../js/http';
+  import api from '../../js/api';
 
   export default {
     data() {
